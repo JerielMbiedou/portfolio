@@ -9,7 +9,7 @@ const projects = [
     description: "Master's thesis: designed a deep learning pipeline to extract biologically meaningful latent representations from single-cell RNA sequencing (scRNA-seq) data, enabling downstream clustering and cell-type annotation.",
     image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80",
     tags: ["PyTorch", "Scanpy", "Python", "Deep Learning", "Bioinformatics"],
-    github: "#",
+    github: "https://github.com/JerielMbiedou/IntenseCPA",
     demo: "#"
   },
   {
@@ -17,8 +17,8 @@ const projects = [
     description: "Bachelor's thesis: built an interactive web tool for visualizing the similarity structure of change-intensive software systems using phylogenetic tree representations, enabling developers to explore evolutionary patterns.",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
     tags: ["D3.js", "Python", "Data Visualization", "Software Analysis"],
-    github: "#",
-    demo: "#"
+    github: "https://github.com/JerielMbiedou/phylographix",
+    demo: "https://effulgent-taffy-1fb3c3.netlify.app/"
   },
   {
     title: "Multilingual Web Application Tool",
