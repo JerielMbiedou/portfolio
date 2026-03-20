@@ -1,0 +1,17 @@
+packages:
+  "framer-motion": "For sleek scroll animations, hero transitions, and micro-interactions"
+  "clsx": "For conditional class name joining"
+  "tailwind-merge": "For merging tailwind classes in reusable components"
+
+images:
+  - path: "artifacts/portfolio/public/images/hero-bg.png"
+    description: "Dark, tech-forward abstract visualization of a neural network or machine learning nodes glowing with cyan and deep blue light, professional and sleek, perfect for a hero background"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/avatar.png"
+    description: "Sleek, minimalist 3D illustrated avatar of a tech professional, stylized, subtle neon lighting on the edges, dark background, professional but modern"
+    aspect_ratio: "1:1"
+
+notes:
+  - Portfolio is a single page application with smooth scrolling.
+  - Dark mode is default to fit the requested sleek tech-forward aesthetic.
+  - Native standard anchor tags are used for section navigation, bypassing Wouter for in-page anchors.
